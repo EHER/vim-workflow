@@ -1,1 +1,2 @@
-set mouser=n
+set mouse=n
+set spell
