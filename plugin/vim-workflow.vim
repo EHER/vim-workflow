@@ -7,6 +7,8 @@ map <down> <nop>
 map <left> <nop>
 map <right> <nop>
 map <up> <nop>
+map cc <esc>:cclose<cr>
+map co <esc>:copen<cr>
 nmap <silent> <S-Tab> :tabprevious<cr>
 nmap <silent> <Tab> :tabnext<cr>
 set mouse=n
