@@ -13,3 +13,4 @@ nmap <silent> <S-Tab> :tabprevious<cr>
 nmap <silent> <Tab> :tabnext<cr>
 set mouse=n
 set spell
+set tags+=tags,tags.vendor
