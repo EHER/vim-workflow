@@ -1,3 +1,6 @@
+imap <down> <c-n>
+imap <tab> <c-x><c-o>
+imap <up> <c-p>
 let g:netrw_banner = 0
 let g:netrw_liststyle = 3
 let mapleader=","
