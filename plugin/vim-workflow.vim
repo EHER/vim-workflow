@@ -1,4 +1,3 @@
-imap <tab> <c-x><c-o>
 let g:netrw_banner = 0
 let mapleader=","
 map <c-h> 5h
