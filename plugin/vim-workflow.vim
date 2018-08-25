@@ -16,4 +16,3 @@ nmap <silent> <Tab> :tabnext<cr>
 set mouse=n
 set number
 set spell
-set tags+=tags,tags.vendor
