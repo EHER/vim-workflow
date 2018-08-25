@@ -10,8 +10,6 @@ map <right> <c-w><right>
 map <up> <c-w><up>
 map cc <esc>:cclose<cr>
 map co <esc>:copen<cr>
-nmap <silent> <S-Tab> :tabprevious<cr>
-nmap <silent> <Tab> :tabnext<cr>
 set mouse=n
 set number
 set spell
