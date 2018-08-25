@@ -8,8 +8,6 @@ map <down> <c-w><down>
 map <left> <c-w><left>
 map <right> <c-w><right>
 map <up> <c-w><up>
-map cc <esc>:cclose<cr>
-map co <esc>:copen<cr>
 set mouse=n
 set number
 set spell
