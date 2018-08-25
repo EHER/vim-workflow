@@ -2,9 +2,6 @@ imap <down> <c-n>
 imap <tab> <c-x><c-o>
 imap <up> <c-p>
 let g:netrw_banner = 0
-let g:netrw_browse_split = 4
-let g:netrw_liststyle = 3
-let g:netrw_winsize = 25
 let mapleader=","
 map <c-j> 5j
 map <c-k> 5k
