@@ -8,6 +8,7 @@ map <down> <c-w><down>
 map <left> <c-w><left>
 map <right> <c-w><right>
 map <up> <c-w><up>
+set clipboard=unnamedplus
 set expandtab shiftwidth=4 tabstop=4
 set list listchars+=tab:\|-
 set mouse=n
