@@ -1,3 +1,6 @@
+imap <c-space> <c-x><c-o>
+imap <s-tab> <c-p>
+imap <tab> <c-n>
 let g:netrw_banner=0
 let g:netrw_hide = 1
 let g:netrw_list_hide = '\(^\|\s\s\)\zs\.\S\+'
