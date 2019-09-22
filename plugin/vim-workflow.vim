@@ -14,6 +14,8 @@ map <down> <c-w><down>
 map <left> <c-w><left>
 map <right> <c-w><right>
 map <up> <c-w><up>
+nmap <c-p> :e **/*
+nmap f :e **/<c-r><c-w>
 set clipboard=unnamedplus
 set expandtab shiftwidth=4 tabstop=4
 set list listchars+=tab:\|-
