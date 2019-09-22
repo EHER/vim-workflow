@@ -17,6 +17,8 @@ map <up> <c-w><up>
 nmap <c-p> :e **/*
 nmap f :e **/<c-r><c-w>
 nmap K <esc>:grep <c-r><c-w><cr>
+nmap <s-tab> :Ex<cr>
+nmap <tab> :Rex<cr>
 set clipboard=unnamedplus
 set expandtab shiftwidth=4 tabstop=4
 set list listchars+=tab:\|-
