@@ -1,4 +1,7 @@
+imap ( ()
 imap <c-space> <c-x><c-o>
+imap [ []<esc>i
+imap { {}<esc>i
 imap <s-tab> <c-p>
 imap <tab> <c-n>
 let g:netrw_banner=0
