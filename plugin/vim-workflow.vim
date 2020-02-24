@@ -16,7 +16,6 @@ map <down> <c-w><down>
 map <left> <c-w><left>
 map <right> <c-w><right>
 map <up> <c-w><up>
-nmap <c-p> :e **/*
 nmap f :e **/<c-r><c-w>
 nmap K <esc>:grep <c-r><c-w><cr>
 nmap <s-tab> :Ex<cr>
